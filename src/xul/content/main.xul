@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<window id="main" title="Life" width="320" height="480" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <!-- ui -->
+  <iframe id="ui" flex="1" src="chrome://life/content/index.html"/>
+
+</window>

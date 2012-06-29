@@ -1,0 +1,12 @@
+.navbar
+  .navbar-inner
+    .container-fluid
+      %a.brand{:href => "#"} Life
+      %ul.nav
+        %li.feed
+          %a{:href=>"#feed"}Feed
+        %li.firebug
+          %a{:href=>"#firebug"}Firebug
+
+      %p.pull-right Status
+
