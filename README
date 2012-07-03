@@ -1,6 +1,16 @@
 Xulinator
 
-A skeleton project for building xulrunner based RIA's using HTML5.
+A skeleton project for building xulrunner based RIA's using HTML5.  Views are constructed with HAML, logic with coffeescript, and css with less.  Default libs are jquery, knockoutjs, and twitter bootstrap.  Currently outputs an application directory tree on mac, and a simple tar.gz for linux (largely untested).
+
+Dependencies
+
+Currently depends on a bunch of junk to build / run.
+- ruby
+- rake
+- haml
+- less
+- js (command line executable comes with the mac xulrunner-sdk but not linux)
+- curl (to get the xulrunner-sdk)
 
 Future:
 
