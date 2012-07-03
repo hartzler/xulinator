@@ -1,0 +1,7 @@
+Xulinator
+
+A skeleton project for building xulrunner based RIA's using HTML5.
+
+Future:
+
+Could be neat to make this into a set of scripts to better generate this stuff.  Probably talk more about security, as this is all up to the user at the moment.
